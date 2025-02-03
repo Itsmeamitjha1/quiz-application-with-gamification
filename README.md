@@ -22,4 +22,4 @@ This is a web-based quiz application developed using React. The app fetches quiz
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/quiz-app.git
+   git clone https://github.com/Itsmeamitjha1/quiz-application-with-gamification.git
